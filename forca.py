@@ -15,7 +15,6 @@ def jogar():
     for palavra in arquivo:
         lista = lista + [palavra.strip()]
 
-    #x vai encontrar palavras na lista e o i vai contar seu index
 
     i = 0
     for item in lista:
